@@ -1,0 +1,5 @@
+in proggres -- partial
+in review -- ready for testing
+rady to stage -- tested on uat
+staged -- chris made stages on uat
+Ready to release- completed
